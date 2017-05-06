@@ -1,4 +1,4 @@
-baseurl = "https://deepvigilstudio.com/"
+baseurl = "http://deepvigilstudio.com/"
 languageCode = "en-US"
 title = "Deep Vigil Studio"
 # Enable comments by entering your Disqus shortname
